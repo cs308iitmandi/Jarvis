@@ -15,6 +15,6 @@ def helloworld(jarvis,s):
     elif(inf=="M"):
     	jarvis.say("Inception")
     elif(inf=="P"):
-    	os.system("python .py")
+    	os.system("python /local/user/Jarvis/jarviscli/plugins/code_python.py")
 
 
