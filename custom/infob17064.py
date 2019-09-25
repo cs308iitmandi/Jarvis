@@ -1,7 +1,7 @@
 from plugin import plugin
 
 @plugin("infob17064")
-def infob17062(jarvis, s):
+def infob17064(jarvis, s):
 	''' Give info about B17064'''
 	get_student_info(jarvis, s.upper())
 
